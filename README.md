@@ -6,3 +6,5 @@
 第二章：感知机perceptron
 
 第三章：k近邻（knn method），基础的实现方法+kdtree实现方法
+
+第四章：决策树（Decision Tree）。ID3算法的python实现（缺少剪枝部分）
